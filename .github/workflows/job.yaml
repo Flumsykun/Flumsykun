@@ -14,7 +14,6 @@ jobs:
           fetch-depth: 0
       - name: Make daily contribution
         run: |
-          # Replace this command with your own command or script that makes the changes
           echo "Making daily contribution"
           echo "$(date)" >> README.md
       - name: Commit changes
