@@ -68,6 +68,3 @@
   </a>
 </div>
 
-###
-
-[![Daily Contributions](https://github.com/Flumsykun/Flumsykun/actions/workflows/job.yaml/badge.svg?branch=main)](https://github.com/Flumsykun/Flumsykun/actions/workflows/job.yaml)
