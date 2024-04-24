@@ -1,10 +1,6 @@
 <h1 align='center'> AAAUUGH Sup Bro!!💪 </h1>
 <p>Cheggit , I'm a coder straight outta The Netherlands, ya know?<br><br>I'm all about that Laravel grind, ya feel me? But yo, in my off time, I'm hitting up C++, Python, and C# like it's leg day, man. Gotta stay swole in the coding game, yoo no hwut im sa'in?<br><br>And when I'm not smashing code, you best believe I'm pumping iron at the gym, gettin those gains!<br><br>Stay shredded, bro."</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flumsykun&theme=redical&custom_title=How%20much%20i've%20sold%20my%20soul%20so%20far" height="150" alt="activity-graph graph"  />
-</div>
-
 ###
 
 <div align="left">
