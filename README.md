@@ -63,21 +63,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jamilgamez&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-
-
-
-
-
-Mon May  6 00:49:39 UTC 2024
-Tue May  7 00:48:22 UTC 2024
-Wed May  8 00:39:29 UTC 2024
-Thu May  9 00:48:48 UTC 2024
-Fri May 10 00:48:38 UTC 2024
-Mon May 13 00:50:44 UTC 2024
-Tue May 14 00:49:47 UTC 2024
-Wed May 15 00:49:32 UTC 2024
-Thu May 16 00:49:49 UTC 2024
-Fri May 17 00:49:54 UTC 2024
-Mon May 20 00:50:22 UTC 2024
-Tue May 21 00:49:58 UTC 2024
